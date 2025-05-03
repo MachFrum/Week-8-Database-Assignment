@@ -33,7 +33,7 @@ A relational database system for healthcare management featuring:
 - Medical records & prescriptions
 - Full SQL schema with constraints
 
-👉 **Start Here:** [Clinic Database Documentation](./Question 1/README.md)
+👉 **Start Here:** [Clinic Database Documentation](./Question-1/README.md)
 
 ---
 
